@@ -50,3 +50,5 @@ def when_started1():
     move_forward(1)   # (3,2) → (3,3)
 
 when_started1()
+
+# i need to sleep now this was quite tiring
